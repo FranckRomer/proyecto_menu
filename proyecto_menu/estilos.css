@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.contenedor{
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 900px;
+    height: 900px;
+    border: 1px solid red;
+}
+
+.imagen{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    display: inline-block;
+    margin: 20px;
+}
